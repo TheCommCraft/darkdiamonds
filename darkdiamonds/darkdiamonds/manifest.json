@@ -1,0 +1,35 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Dark Diamonds 2023",
+    "description": "A new version of the dark diamonds texture pack by TheCommCraft",
+    "uuid": "24409f50-ba21-45ef-9d94-c5350498fc3f",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      16,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "description": "_",
+      "uuid": "ef1ac985-dc31-4585-8875-204bbe091819",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "capabilities": [],
+  "metadata": {
+    "authors": ["TheCommCraft"],
+    "url": "https://github.com/TheCommCraft"
+  }
+}
